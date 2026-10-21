@@ -1,0 +1,29 @@
+# Gradle & Android
+.gradle/
+build/
+*/build/
+*/*/build/
+*.iml
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Python & Backend
+.venv/
+*/.venv/
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+.env
+*/.env
+.pytest_cache/
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
